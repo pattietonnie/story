@@ -1,0 +1,29 @@
+/*
+ Theme Name:   Astra Child Theme
+ Theme URI:    http://storyscaping.patriciatonnie.dk
+ Description:  Astra Child Theme
+ Author:       Patricia Tonnie Jensen
+ Author URI:   http://storyscaping.patriciatonnie.dk
+ Template:     astra
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         custom-menu, Eget logo, Underholdning, En kolonne, To kolonner, Venstre sidebar, E-Commerce, Højre sidebar, Egne farver, Editor-stylesheet, Udvalgte billeder, Fuld bredde, microformats, Indlægsformater, rtl-language-support, Temafunktioner, threaded-comments, translation-ready, Blog
+ Text Domain:  astrachild
+*/
+
+/*Styler adobe font*/
+p {
+  font-family: 'motiva-sans', sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  color: white;
+}
+
+/*Gemmer baggrunds farve*/
+body {
+  background-color: #D3AC9E;
+}
+
+
+
